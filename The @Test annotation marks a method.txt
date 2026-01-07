@@ -1,2 +1,3 @@
-The @Test annotation marks a method as a test case that TestNG should execute. Without @Test, TestNG won’t recognize the method as part of the test suite. Any method annotated with @Test is automatically picked up by TestNG as a test case.
-
+The @Test annotation marks a method as a test case that TestNG should execute.
+Without @Test, TestNG won’t recognize the method as part of the test suite. 
+ Any method annotated with @Test is automatically picked up by TestNG as a test case.
